@@ -1,9 +1,3 @@
----
-title: "Code Editor"
-date: 2023-06-21T23:32:58+08:00
-draft: true
----
-
 ## Introduction
 本篇介紹個人推薦的開發工具IDE:  [vscode](https://code.visualstudio.com/)
 為什麼要特別一篇來講Code Editor, 因為個人覺得vscode的golang support很方便, 開發體驗非常好

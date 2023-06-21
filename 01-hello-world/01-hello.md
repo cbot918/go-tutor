@@ -1,8 +1,4 @@
----
-title: "Go Tutor 01"
-date: 2023-06-21T22:34:02+08:00
-draft: true
----
+
 ## Go Introduction
 Golang 是一個靜態強型別語言, 特色是輕巧, 好學, 原生支援併發, 標準函式庫完整, 內建套件管理系統, 跨平台. 是Google公司的開源專案, Go也受大型開源軟體喜愛, 像是 Docker, Kubernetes, Terraform 等等知名開源. 
 此系列針剛入門的朋友做介紹, 希望可以幫忙減少一點摸索時間
@@ -45,4 +41,4 @@ go run .
 # hello
 ```
 
-專案  [Github Source Code](https://github.com/cbot918)
+專案  [Github Source Code](https://github.com/cbot918/go-tutor/tree/main/01-hello-world)
