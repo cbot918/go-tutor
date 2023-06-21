@@ -1,9 +1,9 @@
 ## Introduction
-本篇介紹個人推薦的開發工具IDE:  [vscode](https://code.visualstudio.com/)
+個人目前推薦寫Go用:  [vscode](https://code.visualstudio.com/)
 為什麼要特別一篇來講Code Editor, 因為個人覺得vscode的golang support很方便, 開發體驗非常好
 
 ## 推薦理由
-1. 背後微軟爸爸在維護
+1. 微軟爸爸在維護
 2. 開源編輯器
 3. 強大的extension
 4. 字體的配色好看 (個人意見)
